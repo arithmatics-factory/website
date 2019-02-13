@@ -1,0 +1,3 @@
+[submodule "themes/honokichi"]
+	path = themes/honokichi
+	url = https://github.com/ota42y/honokichi.git
