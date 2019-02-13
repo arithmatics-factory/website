@@ -1,4 +1,4 @@
-baseURL = "http://arithmatics.com/"
+baseURL = "http://www.arithmatics.com/"
 canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"

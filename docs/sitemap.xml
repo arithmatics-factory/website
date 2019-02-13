@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://arithmatics.com/categories/</loc>
+    <loc>http://www.arithmatics.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arithmatics.com/</loc>
+    <loc>http://www.arithmatics.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://arithmatics.com/tags/</loc>
+    <loc>http://www.arithmatics.com/tags/</loc>
     <priority>0</priority>
   </url>
   
