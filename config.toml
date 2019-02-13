@@ -1,4 +1,4 @@
-baseURL = "https://arithmatics-administrator.github.io/arithmatics-factory.github.io/"
+baseURL = "http://arithmatics.com/"
 canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
