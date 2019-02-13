@@ -4,3 +4,7 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "honokichi"
 publishDir = "docs"
+
+[params.social]
+  twitter_id = "@arithmatics"
+  github = "arithmatics-factory"
