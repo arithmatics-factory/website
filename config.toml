@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://arithmatics-factory.github.io/arithmatics-factory.github.io/"
+canonifyurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "honokichi"
+publishDir = "docs"

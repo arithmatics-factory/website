@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+              <h1 class="article_title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+              {{ partial "post_detail.html" . }}
+            </div>
+
+            <div class="article">
+              {{ .Content }}
+            </div>
+        </div>
+        <div class="col-md-4">
+          <div class="row">
+            {{ if or .TableOfContents }}
+            <div id="toc">
+                <div id="toc_body">
+                    <div id="toc_index">目次</div>
+                    {{ .TableOfContents }}
+                </div>
+            </div>
+            {{ end }}
+            
+          </div>
+          <div class="row">
+            {{ partial "recent.html" . }}
+          </div>
+          <div class="row">
+            {{ partial "profile.html" . }}
+          </div>
+        </div>
+    </div>
+
+    {{ partial "social_share.html" . }}
+</div>
+
+{{ partial "footer.html" . }}
