@@ -22,3 +22,4 @@ publishDir = "docs"
 [params.social]
   twitter_id = "@arithmatics"
   github = "arithmatics-factory"
+
