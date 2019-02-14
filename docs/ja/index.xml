@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>算術演算解析譜工房</title>
-    <link>https://ja.arithmatics.com/</link>
+    <link>https://arithmatics.com/ja/</link>
     <description>Recent content on 算術演算解析譜工房</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Arithmatics</copyright>
     
-	<atom:link href="https://ja.arithmatics.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arithmatics.com/ja/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

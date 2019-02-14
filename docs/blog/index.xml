@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Arithmatics</title>
+    <link>https://arithmatics.com/blog/</link>
+    <description>Recent content in Blogs on Arithmatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Arithmatics</copyright>
+    <lastBuildDate>Wed, 13 Feb 2019 22:08:14 +0900</lastBuildDate>
+    
+	<atom:link href="https://arithmatics.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hi</title>
+      <link>https://arithmatics.com/blog/firstpost/</link>
+      <pubDate>Wed, 13 Feb 2019 22:08:14 +0900</pubDate>
+      
+      <guid>https://arithmatics.com/blog/firstpost/</guid>
+      <description>this is test post.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ja.arithmatics.com/categories/</loc>
+    <loc>https://arithmatics.com/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -13,12 +13,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ja.arithmatics.com/categories/"
+                href="https://arithmatics.com/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://ja.arithmatics.com/tags/</loc>
+    <loc>https://arithmatics.com/ja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -28,12 +28,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ja.arithmatics.com/tags/"
+                href="https://arithmatics.com/ja/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://ja.arithmatics.com/</loc>
+    <loc>https://arithmatics.com/ja/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -43,7 +43,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://ja.arithmatics.com/"
+                href="https://arithmatics.com/ja/"
                 />
   </url>
   
