@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.ja.arithmatics.com/categories/</loc>
+    <loc>https://ja.arithmatics.com/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/categories/"
+                href="https://arithmatics.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/categories/"
+                href="https://ja.arithmatics.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.ja.arithmatics.com/tags/</loc>
+    <loc>https://ja.arithmatics.com/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/tags/"
+                href="https://arithmatics.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/tags/"
+                href="https://ja.arithmatics.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.ja.arithmatics.com/</loc>
+    <loc>https://ja.arithmatics.com/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/"
+                href="https://arithmatics.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/"
+                href="https://ja.arithmatics.com/"
                 />
   </url>
   

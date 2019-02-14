@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Arithmatics</title>
-    <link>https://www.arithmatics.com/tags/</link>
+    <link>https://arithmatics.com/tags/</link>
     <description>Recent content in Tags on Arithmatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Arithmatics</copyright>
     <lastBuildDate>Wed, 13 Feb 2019 22:08:14 +0900</lastBuildDate>
     
-	<atom:link href="https://www.arithmatics.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arithmatics.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Info</title>
-      <link>https://www.arithmatics.com/tags/info/</link>
+      <link>https://arithmatics.com/tags/info/</link>
       <pubDate>Wed, 13 Feb 2019 22:08:14 +0900</pubDate>
       
-      <guid>https://www.arithmatics.com/tags/info/</guid>
+      <guid>https://arithmatics.com/tags/info/</guid>
       <description></description>
     </item>
     

@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.arithmatics.com/blog/firstpost/</loc>
+    <loc>https://arithmatics.com/blog/firstpost/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/</loc>
+    <loc>https://arithmatics.com/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/"
+                href="https://ja.arithmatics.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/"
+                href="https://arithmatics.com/"
                 />
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/categories/arithmatics/</loc>
+    <loc>https://arithmatics.com/categories/arithmatics/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/categories/blog/</loc>
+    <loc>https://arithmatics.com/categories/blog/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/blog/</loc>
+    <loc>https://arithmatics.com/blog/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/categories/</loc>
+    <loc>https://arithmatics.com/categories/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/categories/"
+                href="https://ja.arithmatics.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/categories/"
+                href="https://arithmatics.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/tags/info/</loc>
+    <loc>https://arithmatics.com/tags/info/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.arithmatics.com/tags/</loc>
+    <loc>https://arithmatics.com/tags/</loc>
     <lastmod>2019-02-13T22:08:14+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://www.ja.arithmatics.com/tags/"
+                href="https://ja.arithmatics.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.arithmatics.com/tags/"
+                href="https://arithmatics.com/tags/"
                 />
   </url>
   

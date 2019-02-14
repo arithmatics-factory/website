@@ -1,5 +1,5 @@
 copyright = "Arithmatics"
-baseURL = "https://www.arithmatics.com/"
+baseURL = "https://arithmatics.com/"
 canonifyurls = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -10,12 +10,12 @@ publishDir = "docs"
 [languages]
 
   [languages.en]
-  baseURL = "https://www.arithmatics.com/"
+  baseURL = "https://arithmatics.com/"
   languageName = "English"
   title = "Arithmatics"
 
   [languages.ja]
-  baseURL = "https://www.ja.arithmatics.com/"
+  baseURL = "https://ja.arithmatics.com/"
   languageName = "Japanese"
   title = "算術演算解析譜工房"
 
