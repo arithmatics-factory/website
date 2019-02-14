@@ -1,9 +1,23 @@
+copyright = "Arithmatics"
 baseURL = "https://www.arithmatics.com/"
 canonifyurls = true
 languageCode = "en-us"
-title = "My New Hugo Site"
+defaultContentLanguage = "en"
+
 theme = "honokichi"
 publishDir = "docs"
+
+[languages]
+
+  [languages.en]
+  baseURL = "https://www.arithmatics.com/"
+  languageName = "English"
+  title = "Arithmatics"
+
+  [languages.ja]
+  baseURL = "https://www.ja.arithmatics.com/"
+  languageName = "Japanese"
+  title = "算術演算解析譜工房"
 
 [params.social]
   twitter_id = "@arithmatics"
